@@ -1,4 +1,4 @@
-module github.com/flipped-aurora/ws
+module github.com/sywung/ws
 
 go 1.16
 
